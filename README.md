@@ -1,5 +1,5 @@
 # TF2 Offsets Dumper
->                      TF2 Offsets Dumper - coded by Lufzys
+>       TF2 Offsets Dumper - coded by Lufzys
 ![alt text](https://github.com/Lufzys/TF2OffsetsDumper/blob/main/lf.ico?raw=true)
 #### Descs..
 > Original Source : https://github.com/ActualDragonTears/TF2-Offset-Dumper (C++)                                                                                                            
